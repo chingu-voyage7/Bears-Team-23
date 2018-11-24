@@ -25,9 +25,9 @@ Location based therapist appoinment scheduling portal
        5. Request appointment transfter to fellow therapist
     3. Email/Text notifications of upcoming appointments
 4. Guest View
-  1. Visit differnt parts of portal
-  2. See limited list of therapists (public profiles)
-  3. See limited information about selected therapist
+    1. Visit differnt parts of portal
+    2. See limited list of therapists (public profiles)
+    3. See limited information about selected therapist
 
 #### Project Setup Instructions:
 This project is designed based upon **yarn workspaces**, install yarn first `npm install -g yarn`. All dependencies will manage at root.
