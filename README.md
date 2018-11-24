@@ -38,3 +38,4 @@ This project is designed based upon **yarn workspaces**, install yarn first `npm
 
 Common functionality is managed in `common/` directory.
 
+Voyage-7 | https://chingu.io/
